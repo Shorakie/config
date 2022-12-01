@@ -1,0 +1,6 @@
+2022/12/01-05:50:39.351 3 Reusing MANIFEST /home/shorakie/.config/opera/Local Storage/leveldb/MANIFEST-000001
+2022/12/01-05:50:39.351 3 Recovering log #3
+2022/12/01-05:50:39.351 3 Reusing old log /home/shorakie/.config/opera/Local Storage/leveldb/000003.log 
+2022/12/01-05:54:24.572 3 Level-0 table #5: started
+2022/12/01-05:54:24.591 3 Level-0 table #5: 105446 bytes OK
+2022/12/01-05:54:24.599 3 Delete type=0 #3

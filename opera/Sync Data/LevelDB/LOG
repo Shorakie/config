@@ -1,0 +1,15 @@
+2022/12/01-12:37:48.500 128c Reusing MANIFEST /home/shorakie/.config/opera/Sync Data/LevelDB/MANIFEST-000001
+2022/12/01-12:37:48.501 128c Recovering log #3
+2022/12/01-12:37:48.501 128c Reusing old log /home/shorakie/.config/opera/Sync Data/LevelDB/000003.log 
+2022/12/01-12:42:21.649 604c Level-0 table #5: started
+2022/12/01-12:42:21.657 604c Level-0 table #5: 200212 bytes OK
+2022/12/01-12:42:21.663 604c Delete type=0 #3
+2022/12/01-12:42:22.147 12b2 Level-0 table #7: started
+2022/12/01-12:42:22.160 12b2 Level-0 table #7: 177379 bytes OK
+2022/12/01-12:42:22.166 12b2 Delete type=0 #4
+2022/12/01-14:14:39.085 3c929 Level-0 table #9: started
+2022/12/01-14:14:39.099 3c929 Level-0 table #9: 104796 bytes OK
+2022/12/01-14:14:39.106 3c929 Delete type=0 #6
+2022/12/01-15:35:33.014 adb39 Level-0 table #11: started
+2022/12/01-15:35:33.027 adb39 Level-0 table #11: 116129 bytes OK
+2022/12/01-15:35:33.033 adb39 Delete type=0 #8

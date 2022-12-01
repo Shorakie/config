@@ -1,0 +1,91 @@
+[2022-12-01 13:34:33.113] [warn]  [Motrix] Logger init
+[2022-12-01 13:34:35.428] [warn]  [Motrix] auto sync tracker data: [
+  'http://93.158.213.92:1337/announce\n' +
+    '\n' +
+    'udp://186.10.170.198:1337/announce\n' +
+    '\n' +
+    'udp://23.137.251.45:6969/announce\n' +
+    '\n' +
+    'udp://45.154.253.8:6969/announce\n' +
+    '\n' +
+    'udp://185.181.60.155:80/announce\n' +
+    '\n' +
+    'udp://91.216.110.53:451/announce\n' +
+    '\n' +
+    'udp://176.56.6.162:6969/announce\n' +
+    '\n' +
+    'udp://107.189.11.230:6969/announce\n' +
+    '\n' +
+    'udp://61.216.149.33:6969/announce\n' +
+    '\n' +
+    'udp://62.112.11.37:6969/announce\n' +
+    '\n' +
+    'udp://185.230.4.150:1337/announce\n' +
+    '\n' +
+    'udp://185.107.82.74:1337/announce\n' +
+    '\n' +
+    'udp://198.100.149.66:6969/announce\n' +
+    '\n' +
+    'udp://149.202.88.193:80/announce\n' +
+    '\n' +
+    'udp://148.251.53.72:6969/announce\n' +
+    '\n' +
+    'udp://184.105.151.166:6969/announce\n' +
+    '\n' +
+    'udp://208.83.20.20:6969/announce\n' +
+    '\n',
+  'http://tracker.opentrackr.org:1337/announce\n' +
+    '\n' +
+    'udp://open.tracker.cl:1337/announce\n' +
+    '\n' +
+    'http://tracker.openbittorrent.com:80/announce\n' +
+    '\n' +
+    'udp://opentracker.i2p.rocks:6969/announce\n' +
+    '\n' +
+    'https://opentracker.i2p.rocks:443/announce\n' +
+    '\n' +
+    'udp://tracker.openbittorrent.com:6969/announce\n' +
+    '\n' +
+    'udp://open.stealth.si:80/announce\n' +
+    '\n' +
+    'udp://tracker.torrent.eu.org:451/announce\n' +
+    '\n' +
+    'udp://tracker.tiny-vps.com:6969/announce\n' +
+    '\n' +
+    'udp://tracker.moeking.me:6969/announce\n' +
+    '\n' +
+    'udp://tracker.dler.org:6969/announce\n' +
+    '\n' +
+    'udp://tracker.altrosky.nl:6969/announce\n' +
+    '\n' +
+    'udp://tr.cili001.com:8070/announce\n' +
+    '\n' +
+    'udp://p4p.arenabg.com:1337/announce\n' +
+    '\n' +
+    'udp://open.demonii.com:1337/announce\n' +
+    '\n' +
+    'udp://movies.zsw.ca:6969/announce\n' +
+    '\n' +
+    'udp://ipv4.tracker.harry.lu:80/announce\n' +
+    '\n' +
+    'udp://fe.dealclub.de:6969/announce\n' +
+    '\n' +
+    'udp://explodie.org:6969/announce\n' +
+    '\n' +
+    'udp://exodus.desync.com:6969/announce\n' +
+    '\n'
+]
+[2022-12-01 13:34:35.963] [warn]  [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:324:16
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)
+[2022-12-01 13:34:35.964] [warn]  [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/index.js:324:16
+    at /usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/usr/lib/motrix/app.asar/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (node:internal/timers:559:17)
+    at process.processTimers (node:internal/timers:502:7)

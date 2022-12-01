@@ -1,0 +1,6 @@
+2022/12/01-15:06:03.772 57485 Creating DB /home/shorakie/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/12/01-15:06:03.788 57485 Reusing MANIFEST /home/shorakie/.config/opera/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/01-15:06:06.511 69901 Level-0 table #5: started
+2022/12/01-15:06:06.518 69901 Level-0 table #5: 5630 bytes OK
+2022/12/01-15:06:06.525 69901 Delete type=0 #3
+2022/12/01-15:06:06.525 69901 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
